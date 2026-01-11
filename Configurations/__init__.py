@@ -1,0 +1,2 @@
+def configparser():
+    return None
