@@ -48,7 +48,7 @@ class Registration(BasePage):
     def Enter_EmailAddress(self):
         # time_stamp = datetime.now().strftime("%Y_%m_%d_%H_%H_%S")
         # new_email = "test" + time_stamp + "@gmail.com"
-        self.sendKeys("test968_9@test.com",self.Email_Address,Locator_Type='id')
+        self.sendKeys("test968_20@test.com",self.Email_Address,Locator_Type='id')
         # new_email="test9684@test.com"
         # self.driver.find_element(By.ID, self.Email_Address).send_keys(new_email)
 
